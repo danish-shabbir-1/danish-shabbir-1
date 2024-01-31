@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **-**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Backend Database**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **React js Development**
 
 - 📫 How to reach me **danishshabbir290@gmail.com**
 
