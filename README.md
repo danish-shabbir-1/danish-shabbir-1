@@ -1,4 +1,4 @@
-![logo](https://github.com/danish-shabbir-1/danish-shabbir-1/blob/main/Blue%20Modern%20Elegant%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/danish-shabbir-1/danish-shabbir-1/blob/main/Dark%20Purple%203D%20Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Danish Shabbir </h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
